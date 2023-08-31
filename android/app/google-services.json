@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728462149537",
+    "project_id": "roche2-2f164",
+    "storage_bucket": "roche2-2f164.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728462149537:android:0ac13ea1336ca6a75eede0",
+        "android_client_info": {
+          "package_name": "com.notificationpoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728462149537-t8bnusqh51f7p51us53sfc5j17r0rb0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOv9wSq2shBpfDl_wZZVrgg691vl8AFx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728462149537-t8bnusqh51f7p51us53sfc5j17r0rb0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
